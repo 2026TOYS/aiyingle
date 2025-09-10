@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
    <div class="album">
@@ -15,9 +14,3 @@
     <img src="2024-09 img (10).jpg" alt="Page 10">
     <!-- 可以继续加更多 -->
   </div>
-
-  <footer>
-    <p>© 2025 爱婴乐玩具 | My Company</p>
-  </footer>
-</body>
-</html>
